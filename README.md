@@ -16,7 +16,7 @@ Learn classic Data Structure and Algorithm with JavaScript
 - [ ] 演算法進階補充
 
 ## 關於作者（Author）
-@kdchang 文藝型開發者，夢想是做出人們想用的產品和辦一所心目中理想的學校，目前專注在 Mobile 和 IoT 應用開發。A Starter & Maker. JavaScript, Python & Arduino/Android lover.:)
+[@kdchang](http://blog.kdchang.cc/) 文藝型開發者，夢想是做出人們想用的產品和辦一所心目中理想的學校，目前專注在 Mobile 和 IoT 應用開發。A Starter & Maker. JavaScript, Python & Arduino/Android lover.:)
 
 ## 版權許可（License）
 MIT
