@@ -1,9 +1,4 @@
----
-title: 用 JavaScript 學習資料結構和演算法：JavaScript 快速入門
-date: 2016-09-20 22:00:00
-tags: JavaScript, ECMAScript2015, ES6, Data Structure, Algorithm, Stack, 資料結構, 演算法 
-author: kdchang
----
+# 用 JavaScript 學習資料結構和演算法：JavaScript 快速入門
 
 ![用 JavaScript 學習資料結構和演算法：JavaScript 快速入門](/images/javascript.png)
 
