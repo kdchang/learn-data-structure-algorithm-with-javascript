@@ -1,6 +1,6 @@
 # 用 JavaScript 學習資料結構和演算法：JavaScript 快速入門
 
-![用 JavaScript 學習資料結構和演算法：JavaScript 快速入門](/images/javascript.png)
+![用 JavaScript 學習資料結構和演算法：JavaScript 快速入門](images/javascript.png)
 
 # 前言
 在 CS 江湖上曾傳言：`程式設計 = 資料結構 + 演算法`。在一般的大專院校裡，資料結構（Data Structure）與演算法（Algorithm）幾乎都是電腦科學（Computer Science）和資訊相關科系的基礎必修課，在這些課堂中多半是使用 C/C++ 或是 Java 進行教學，許多初學學生也因為對於這些語言的掌握度不夠，反而迷失在資料結構和演算法的世界裡，然而本系列文章將透過 JavaScript 去學習一些經典的資料結構和演算法。作為一個早期限於瀏覽器端開發的程式語言，現在的 JavaScript 早已不能同日而語，不管是前後端開發、行動端、桌面端、硬體開發等都可以看到它的身影，而 JavaScript 輕量和搭配便利的瀏覽器簡易開發環境工具特性也讓學習資料結構和演算法更為有趣！接下來我們將使用一系列文章介紹 JavaScript 如何實作經典資料結構和演算法。
